@@ -6,7 +6,7 @@
 
 ### About Me
 
-My journey with technology began with a fascination for how digital products shape our world. As a **first-generation software engineer**, I've built scalable solutions across industries—from fintech and automotive to education and real estate—driven by a passion for impactful, user-centric applications.
+My journey with technology began with a fascination for how digital products shape our world. As a first-generation software engineer, I've built scalable solutions across industries, from fintech and automotive to education and real estate, driven by a passion for impactful, user-centric applications.
 
 Currently, I’m pursuing my **Master’s in Computer Science** at the University of Illinois Springfield, focusing on AI, ML, and advanced backend systems, while building robust products as a Software Engineering Intern.
 
@@ -44,10 +44,10 @@ Currently, I’m pursuing my **Master’s in Computer Science** at the Universit
 
 ### 💡 Projects
 
-- **BuildEstate** – AI-powered real estate platform with advanced property search, JWT authentication, and OpenAI-driven recommendations for market trend analysis and ROI prediction.  
-- **Bank Marketing Data Analysis** – Customer subscription prediction using custom KNN/Decision Tree models and advanced feature engineering.  
-- **Reddit Search Engine** – Multithreaded crawler (PRAW) and PyLucene-based search over 1M+ posts, with custom ranking algorithms.  
-- **Signatureless Ransomware Detection** – Windows minifilter driver leveraging behavioral analysis for real-time, kernel-level ransomware detection.
+- [**BuildEstate**](https://github.com/varunmedi/buildestate) – AI-powered real estate platform with advanced property search, JWT authentication, and OpenAI-driven recommendations for market trend analysis and ROI prediction.
+- [**Bank Marketing Data Analysis**](https://github.com/varunmedi/bank-marketing-data-analysis) – Customer subscription prediction using custom KNN/Decision Tree models and advanced feature engineering.
+- [**Reddit Search Engine**](https://github.com/varunmedi/reddit-search-engine) – Multithreaded crawler (PRAW) and PyLucene-based search over 1M+ posts, with custom ranking algorithms.
+- [**Signatureless Ransomware Detection**](https://github.com/varunmedi/signatureless-ransomware-detection) – Windows minifilter driver leveraging behavioral analysis for real-time, kernel-level ransomware detection.
 
 ---
 
@@ -64,7 +64,7 @@ Bachelors, Computer Science (Jun 2017 – May 2021)
 
 ### 🛠️ Tech Stack
 
-#### **Languages & Databases**
+#### Languages & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,7 +76,7 @@ Bachelors, Computer Science (Jun 2017 – May 2021)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### **Frameworks & Tools**
+#### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -91,7 +91,7 @@ Bachelors, Computer Science (Jun 2017 – May 2021)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### **Cloud, DevOps & Data**
+#### Cloud, DevOps & Data
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -104,7 +104,7 @@ Bachelors, Computer Science (Jun 2017 – May 2021)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-#### **Data Science & ML**
+#### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -115,16 +115,10 @@ Bachelors, Computer Science (Jun 2017 – May 2021)
 
 ---
 
-### 🏆 Problem Solving
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/varunmedi?theme=dark&font=Arapey&ext=contest)  
-
----
-
 ### 🍳 Outside of Work
 
-When I’m not coding, you’ll find me experimenting in the kitchen with **Middle Eastern and Italian dishes** mixed with **South Indian flavors**. I love the creativity that comes with cooking and often try to blend traditional recipes with new techniques.  
-To balance things out, I enjoy **lifting weights** 🏋️ and keeping an active lifestyle.
+When I’m not coding, you’ll find me experimenting in the kitchen with Middle Eastern and Italian dishes mixed with South Indian flavors. I love the creativity that comes with cooking and often try to blend traditional recipes with new techniques.  
+To balance things out, I enjoy lifting weights 🏋️ and keeping an active lifestyle.
 
 ---
 
