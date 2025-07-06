@@ -1,6 +1,6 @@
 # Hi, I'm Varun Kumar Medi 👋
 
-👨‍💻 **Software Engineer** | 🤝 **Collaborative Problem Solver** | 🔬 **AI & Data Enthusiast**  
+👨‍💻 **Software Engineer** | 🤝 **Collaborative Problem Solver** | 🔬 **AI & Data Enthusiast**
 
 ---
 
@@ -122,12 +122,26 @@ Bachelors, Computer Science (Jun 2017 – May 2021)
 
 ---
 
+### 🚩 Other Cool Stuff I’ve Done
+
+- 🧠 Built an **image classification model leveraging swarm intelligence**.
+- 🔒 Developed a **secure multithreaded chat application**.
+- 💻 I regularly solve problems on **LeetCode** and share my approaches on [LinkedIn](https://www.linkedin.com/in/varunmedi/)—feel free to check out my posts!
+
+---
+
+### 🌱 Outside of Work
+
+When I’m not coding, you’ll find me experimenting in the kitchen with **Middle Eastern and Italian dishes** mixed with **South Indian flavors**. To balance things out, I also enjoy **lifting weights** 🏋️.
+
+---
+
+Let’s connect and explore how we can make an impact together! 🌟
+
+---
+
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/varunmedi/)
 [![GitHub](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/varunmedi)
 [![Email](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:varunkumarmedi9@gmail.com)
-
----
-
-*Let's connect and collaborate on building impactful solutions! 🚀*
