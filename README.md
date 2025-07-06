@@ -1,84 +1,82 @@
 # Hi, I'm Varun Kumar Medi 👋
 
-👨‍💻 **Software Engineer** | 🎓 **Graduate Student | Curious Builder | AI & Cloud Enthusiast**
+👨‍💻 **Software Engineer** | 🤝 **Collaborative Problem Solver** | 🔬 **AI & Data Enthusiast**  
 
 ---
 
 ### About Me
 
-My journey in tech began with a fascination for how software could solve everyday problems, leading me to become a first-generation computer science graduate in my family. I'm currently pursuing my Master's in Computer Science at the University of Illinois Springfield, where I enjoy building impactful products and sharing knowledge. I've contributed to enterprise and startup teams, optimized critical systems, and built full-stack apps with a focus on reliability, scalability, and user experience.
+My journey with technology began with a fascination for how digital products shape our world. As a **first-generation software engineer**, I've built scalable solutions across industries—from fintech and automotive to education and real estate—driven by a passion for impactful, user-centric applications.
+
+Currently, I’m pursuing my **Master’s in Computer Science** at the University of Illinois Springfield, focusing on AI, ML, and advanced backend systems, while building robust products as a Software Engineering Intern.
 
 ---
 
-### 🚀 Current Role
+### 🚀 Experience Highlights
 
-**Software Engineering Intern at Frigate (Jun 2025 – Present)**  
-- Implemented 10+ features and 6+ dashboards for web/mobile platforms (React.js & Spring Boot), boosting user engagement by 20% and cutting admin workload by 30%.  
-- Delivered and maintained 15+ RESTful APIs (Spring Boot, PostgreSQL), ensuring 99% uptime and seamless continuous deployment via GCP, Firebase, Heroku, and Google Dataproc.
+**Frigate** | Software Engineering Intern  
+*Jun 2025 – Present*  
+- Implemented 10+ new features and crafted 6+ interactive dashboards for web/mobile (React.js & Spring Boot), boosting user engagement by 20% and cutting admin workload by 30%, while supporting real-time analytics for stakeholders.
+- Delivered 15+ RESTful APIs (Spring Boot, PostgreSQL) with 99% uptime, optimizing deployments by 30% via GCP, Firebase, Heroku, and Google Dataproc for seamless CI/CD.
 
----
+**University of Illinois System** | Web Development Intern  
+*Sep 2024 – Apr 2025*  
+- Revamped 25+ web pages (HTML/CSS/JS/Drupal), improving load speed by 28%, user engagement by 30%, and enforcing WCAG 2.1 accessibility and cross-browser compatibility.
+- Automated publishing with Power Automate, integrated Google Analytics, and collaborated with 3 departments, delivering training and modernizing legacy content.
 
-### 💡 Experience Highlights
+**Lloyds Banking Group** | Software Engineer  
+*Feb 2024 – Aug 2024*  
+- Built 20+ reusable React.js components and Python/Flask microservices, improving API performance by 40%, accelerating frontend development by 35%, and supporting rapid feature rollouts.
+- Contributed to an analytics platform for 10,000+ employees, enabling biweekly Agile releases and data-driven business decisions.
 
-**University of Illinois System**  
-_Web Development Intern (Sep 2024 – Apr 2025)_  
-- Revamped 25+ web pages (HTML, CSS, JS, Drupal), improving load speed by 28% and user engagement by 30%.  
-- Automated publishing with Power Automate, integrated Google Analytics, migrated legacy content, and trained editorial staff.
+**Ford Motor Company** | Software Engineer  
+*Oct 2021 – Jan 2024*  
+- Led migration of 15+ apps to GCP (Spring Boot), reducing costs by 30%, doubling scalability, and mentoring junior engineers.
+- Architected real-time data services with Kafka & Dataflow, boosting throughput and reducing processing delays by 40%.
+- Built high-availability tracking apps (GCP Pub/Sub, Spring Boot), enhancing data accuracy and reducing latency by 40%.
 
-**Lloyds Banking Group**  
-_Software Engineer (Feb 2024 – Aug 2024)_  
-- Built 20+ reusable React.js components & Python/Flask microservices, improving API performance by 40% and accelerating frontend development by 35%.  
-- Contributed to a centralized analytics platform for 10,000+ employees and delivered biweekly releases in an Agile team.
-
-**Ford Motor Company**  
-_Software Engineer (Oct 2021 – Jan 2024)_  
-- Led migration of web apps to Google Cloud Platform (Spring Boot), reducing costs by 30% and doubling scalability.  
-- Architected real-time data services (Kafka, Dataflow), boosting throughput and reducing processing delays by 40%.  
-- Built high-availability web apps (Spring Boot, Pub/Sub), improving data accuracy and reducing latency by 40%.
-
-**ValueMomentum**  
-_Software Engineer (Jun 2021 – Sep 2021)_  
-- Developed .NET Core, ASP.NET MVC, AngularJS apps; integrated Twilio for automated SMS, improving UI responsiveness and communication.  
-- Automated data pipelines with Azure Data Factory, integrated cloud data into PostgreSQL, reducing manual effort by 70%.
+**ValueMomentum** | Software Engineer  
+*Jun 2021 – Sep 2021*  
+- Developed full-stack interfaces (.NET Core, ASP.NET MVC, AngularJS, Bootstrap); integrated Twilio SMS for improved communication.
+- Automated data pipelines with Azure Data Factory and PostgreSQL, reducing manual effort by 70% and boosting operational efficiency.
 
 ---
 
-### 🏗️ Projects
+### 💡 Projects
 
-- **BuildEstate** – AI-powered real estate platform with advanced property search, AI-driven recommendations (Azure OpenAI), trend analysis, JWT auth, and secure transactions.
-- **Bank Marketing Data Analysis** – Predicted customer subscription likelihood using custom KNN and Decision Tree models, advanced imputation, and feature engineering.
-- **Reddit Search Engine** – Scalable web crawler (PRAW) scraping 1M+ posts, PyLucene search index, custom ranking for fast, relevant results.
-- **Signatureless Ransomware Detection** – Kernel-level system using Windows minifilter driver and behavioral analysis to detect ransomware in real time.
+- **BuildEstate** – AI-powered real estate platform with advanced property search, JWT authentication, and OpenAI-driven recommendations for market trend analysis and ROI prediction.  
+- **Bank Marketing Data Analysis** – Customer subscription prediction using custom KNN/Decision Tree models and advanced feature engineering.  
+- **Reddit Search Engine** – Multithreaded crawler (PRAW) and PyLucene-based search over 1M+ posts, with custom ranking algorithms.  
+- **Signatureless Ransomware Detection** – Windows minifilter driver leveraging behavioral analysis for real-time, kernel-level ransomware detection.
 
 ---
 
-### 📚 Education
+### 🎓 Education
 
 **University of Illinois Springfield**  
-_M.S. in Computer Science (Aug 2024 – Dec 2025)_  
-- Coursework: Machine Learning, NLP, Deep Learning, RL, Advanced DB, Web Design, Data Visualization, Networking
+Masters, Computer Science (Aug 2024 – Dec 2025)  
+_Coursework:_ ML, Neural Networks, NLP, Reinforcement Learning, Advanced DB, Web Design, Data Visualization, Computer Networking
 
 **Andhra University**  
-_B.E. in Computer Science (Jun 2017 – May 2021)_
+Bachelors, Computer Science (Jun 2017 – May 2021)
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-#### Languages & Databases
+#### **Languages & Databases**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### Web & Backend
+#### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -86,47 +84,50 @@ _B.E. in Computer Science (Jun 2017 – May 2021)_
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### Cloud & DevOps
-![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Pivotal Cloud Foundry](https://img.shields.io/badge/PCF-0067B1?style=for-the-badge&logo=pivotal&logoColor=white)
+#### **Cloud, DevOps & Data**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Pivotal Cloud Foundry](https://img.shields.io/badge/PCF-0FAA4C?style=for-the-badge&logo=pivotaltracker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Tekton](https://img.shields.io/badge/Tekton-F50000?style=for-the-badge&logo=tekton&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-F80000?style=for-the-badge&logo=tekton&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Data Science & Analytics
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+#### **Data Science & ML**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-00BFFF?style=for-the-badge&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 Problem Solving
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunmedi&show_icons=true&theme=tokyonight)
-
----
-
-### 📬 Contact Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Varun%20Medi-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunmedi/)](https://www.linkedin.com/in/varunmedi/)
-[![GitHub Badge](https://img.shields.io/badge/-varunmedi-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/varunmedi)](https://github.com/varunmedi)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://varunmedi.github.io/)](https://varunmedi.github.io/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/varunmedi?theme=dark&font=Arapey&ext=contest)  
+[LeetCode Profile](https://leetcode.com/u/varunmedi/)
 
 ---
 
-_“Passionate about building solutions that make an impact. Let’s connect and create something awesome together!”_
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/varunmedi/)
+[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/varunmedi)
+[![Email](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:varunkumarmedi9@gmail.com)
+
+---
+
+*Let's connect and collaborate on building impactful solutions! 🚀*
