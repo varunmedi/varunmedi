@@ -44,7 +44,7 @@ Currently, I’m pursuing my **Master’s in Computer Science** at the Universit
 
 ### 💡 Projects
 
-- [**BuildEstate**](https://github.com/varunmedi/buildestate) – AI-powered real estate platform with advanced property search, JWT authentication, and OpenAI-driven recommendations for market trend analysis and ROI prediction.
+- [**BuildEstate**](https://github.com/varunmedi/real-estate-website) – AI-powered real estate platform with advanced property search, JWT authentication, and OpenAI-driven recommendations for market trend analysis and ROI prediction.
 - [**Bank Marketing Data Analysis**](https://github.com/varunmedi/bank-marketing-data-analysis) – Customer subscription prediction using custom KNN/Decision Tree models and advanced feature engineering.
 - [**Reddit Search Engine**](https://github.com/varunmedi/reddit-search-engine) – Multithreaded crawler (PRAW) and PyLucene-based search over 1M+ posts, with custom ranking algorithms.
 - [**Signatureless Ransomware Detection**](https://github.com/varunmedi/signatureless-ransomware-detection) – Windows minifilter driver leveraging behavioral analysis for real-time, kernel-level ransomware detection.
@@ -128,9 +128,9 @@ Let’s connect and explore how we can make an impact together! 🌟
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/varunmedi/)
-[![GitHub](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/varunmedi)
-[![LeetCode](https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/u/varunmedi/)
-[![Email](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:varunkumarmedi9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varunmedi/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/varunmedi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/varunmedi/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunkumarmedi9@gmail.com)
 
 ---
