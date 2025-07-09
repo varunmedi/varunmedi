@@ -16,29 +16,29 @@ Currently, I’m pursuing my **Master’s in Computer Science** at the Universit
 
 **Frigate** | Software Engineering Intern  
 *Jun 2025 – Present*  
-- Implemented 10+ new features and crafted 6+ interactive dashboards for web/mobile (React.js & Spring Boot), boosting user engagement by 20% and cutting admin workload by 30%, while supporting real-time analytics for stakeholders.
-- Delivered 15+ RESTful APIs (Spring Boot, PostgreSQL) with 99% uptime, optimizing deployments by 30% via GCP, Firebase, Heroku, and Google Dataproc for seamless CI/CD.
+- Implemented 10+ new features and crafted 6+ interactive dashboards for web and mobile platforms using React.js and Spring Boot, leading to a 20% boost in user engagement, significant reduction in admin workload, and supporting real-time analytics for stakeholders.
+- Delivered 15+ RESTful APIs with Spring Boot and PostgreSQL, ensuring 99% uptime, while optimizing deployment processes by 25% through GCP, Firebase, Heroku, and Google Dataproc integrations, facilitating seamless releases and continuous delivery.
 
 **University of Illinois System** | Web Development Intern  
 *Sep 2024 – Apr 2025*  
-- Revamped 25+ web pages (HTML/CSS/JS/Drupal), improving load speed by 28%, user engagement by 30%, and enforcing WCAG 2.1 accessibility and cross-browser compatibility.
-- Automated publishing with Power Automate, integrated Google Analytics, and collaborated with 3 departments, delivering training and modernizing legacy content.
+- Revamped 25+ web pages using HTML, CSS, JavaScript, and Drupal, improving page load speed by 28% and boosting user engagement by 30%; implemented reusable components, WCAG 2.1 accessibility standards, and ensured seamless cross-browser compatibility.
+- Automated content publishing workflows with Microsoft Power Automate, integrated Google Analytics for performance insights, collaborated across 3 departments to migrate and modernize legacy content, and provided technical training to editorial staff.
 
 **Lloyds Banking Group** | Software Engineer  
 *Feb 2024 – Aug 2024*  
-- Built 20+ reusable React.js components and Python/Flask microservices, improving API performance by 40%, accelerating frontend development by 35%, and supporting rapid feature rollouts.
-- Contributed to an analytics platform for 10,000+ employees, enabling biweekly Agile releases and data-driven business decisions.
+- Built 20+ reusable React.js components and backend microservices using Python, Flask, and SQLAlchemy, improving API performance by 40%, accelerating frontend development by 35%, and supporting rapid feature rollouts across teams.
+- Contributed to a centralized analytics platform used by 10,000+ employees, enhancing data accessibility with Microsoft SQL Server, delivering biweekly production releases in an Agile Scrum environment, and facilitating informed business decision-making.
 
 **Ford Motor Company** | Software Engineer  
 *Oct 2021 – Jan 2024*  
-- Led migration of 15+ apps to GCP (Spring Boot), reducing costs by 30%, doubling scalability, and mentoring junior engineers.
-- Architected real-time data services with Kafka & Dataflow, boosting throughput and reducing processing delays by 40%.
-- Built high-availability tracking apps (GCP Pub/Sub, Spring Boot), enhancing data accuracy and reducing latency by 40%.
+- Led migration of 15+ Spring Boot, Angular, and React web applications from Pivotal Cloud Foundry (PCF) to Google Cloud Platform (GCP), reducing infrastructure costs by 30% and doubling system scalability, while mentoring junior engineers and ensuring smooth cutover.
+- Architected and executed real-time data processing services using Apache Kafka and Google Cloud Dataflow, boosting data throughput, reducing processing delays by 38%, and enabling robust analytics for business stakeholders.
+- Engineered a high-availability web application for tracking and analyzing real-time data, leveraging Google Cloud Pub/Sub and Spring Boot to enhance data accuracy and reduce latency by over a third.
 
 **ValueMomentum** | Software Engineer  
 *Jun 2021 – Sep 2021*  
-- Developed full-stack interfaces (.NET Core, ASP.NET MVC, AngularJS, Bootstrap); integrated Twilio SMS for improved communication.
-- Automated data pipelines with Azure Data Factory and PostgreSQL, reducing manual effort by 70% and boosting operational efficiency.
+- Developed full-stack web interfaces using .NET Core, ASP.NET MVC, AngularJS, and Bootstrap; integrated Twilio for automated SMS notifications, enhancing UI responsiveness, user communication, and system reliability.
+- Streamlined data ingestion pipelines by automating workflows with Azure Data Factory and integrating cloud data sources into PostgreSQL, reducing manual effort by 70%, improving data availability, and boosting operational efficiency.
 
 ---
 
