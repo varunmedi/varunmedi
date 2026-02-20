@@ -6,17 +6,23 @@
 
 ### About Me
 
-My journey with technology began with a fascination for how digital products shape our world. As a first-generation software engineer, I've built scalable solutions across industries, from fintech and automotive to education and real estate, driven by a passion for impactful, user-centric applications.
+I’m a Software Engineer with **5.7 years of experience** designing and developing **scalable full-stack applications** using **Java, Spring Boot, and modern front-end frameworks** in fast-paced Agile environments. I specialize in building **RESTful APIs, microservices**, and **cloud-native solutions** that power enterprise platforms across fintech, banking, automotive, insurance, and e-commerce domains.
 
-Currently, I’m pursuing my **Master’s in Computer Science** at the University of Illinois Springfield, focusing on AI, ML, and advanced backend systems, while building robust products as a Software Engineering Intern.
+I have hands-on experience with **Google Cloud Platform (GCP), AWS, and Azure**, and I build reliable systems by applying strong engineering practices across **code reviews, testing, CI/CD automation, monitoring, and production support**. I enjoy collaborating with product managers, stakeholders, and cross-functional teams to deliver high-impact features with measurable business outcomes.
+
+Currently, I hold a **Master’s in Computer Science** from the **University of Illinois Springfield**, with a focus on AI, ML, and advanced backend systems.
 
 ---
 
 ### 🚀 Experience Highlights
 
-With hands-on experience across startups and Fortune 500 companies, I have designed and developed scalable web and data platforms using React.js, Spring Boot, Python, and cloud technologies like GCP, Azure, and AWS. In my roles at Frigate, Ford, and Lloyds Banking Group, I’ve led migrations to cloud infrastructure, built real-time analytics solutions, and contributed reusable components and robust APIs that power mission-critical applications used by thousands of users.
-
-My work includes optimizing deployment pipelines, automating workflows, and enhancing UI/UX for global audiences. I thrive in collaborative environments, partnering with cross-functional teams to modernize legacy systems, streamline operations, and deliver reliable, high-impact software solutions that drive measurable business results.
+- Built and scaled **enterprise-grade full-stack platforms** using **Java, Spring Boot, React.js, Angular**, and **Hibernate**, delivering secure and high-performance user experiences.
+- Designed and optimized **microservices and REST APIs** with PostgreSQL, SQL Server, MongoDB, and MySQL, improving system responsiveness and reliability for high-volume workloads.
+- Led cloud modernization efforts including migrating **15+ applications from PCF to GCP**, reducing infrastructure cost by **30%** and improving scalability through optimized resource usage.
+- Developed near real-time pipelines and event-driven systems using **Kafka, Pub/Sub, Dataflow, RabbitMQ, and Redis caching**, achieving up to **40% higher throughput** for critical financial workflows.
+- Automated CI/CD and release workflows using **Jenkins, Tekton, GitHub Actions, Docker, Kubernetes, and Terraform**, reducing release cycles by **25% to 30%** and improving deployment reliability.
+- Strengthened production stability through **monitoring, alerting, logging, and security remediation** using tools like **Splunk, Dynatrace, Grafana, SonarQube, FOSSA, and Checkmarx**.
+- Improved engineering quality with strong testing practices using **JUnit, Mockito, JaCoCo, and Playwright**, achieving up to **95% code coverage** and reducing production defects.
 
 ---
 
