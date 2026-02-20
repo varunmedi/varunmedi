@@ -38,7 +38,7 @@ Currently, I hold a **Master’s in Computer Science** from the **University of 
 ### 🎓 Education
 
 **University of Illinois Springfield**  
-Masters in Computer Science
+Masters in Computer Science<br>
 _Coursework:_ ML, Neural Networks, NLP, Reinforcement Learning, Advanced DB, Web Design, Data Visualization, Computer Networking
 
 **Andhra University**  
