@@ -1,53 +1,48 @@
 # Hi, I'm Varun Kumar Medi 👋
-
 👨‍💻 **Software Engineer** | 🤝 **Collaborative Problem Solver** | 🔬 **AI & Data Enthusiast**
-
 ---
 
-### About Me
+**📞 (217) 761-7869** | [varunkumarmedi9@gmail.com](mailto:varunkumarmedi9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/varunmedi/) | [GitHub](https://github.com/varunmedi) | [LeetCode](https://leetcode.com/u/varunmedi/)
 
+---
+### About Me
 I’m a Software Engineer with **5.7 years of experience** designing and developing **scalable full-stack applications** using **Java, Spring Boot, and modern front-end frameworks** in fast-paced Agile environments. I specialize in building **RESTful APIs, microservices**, and **cloud-native solutions** that power enterprise platforms across fintech, banking, automotive, insurance, and e-commerce domains.
 
-I have hands-on experience with **Google Cloud Platform (GCP), AWS, and Azure**, and I build reliable systems by applying strong engineering practices across **code reviews, testing, CI/CD automation, monitoring, and production support**. I enjoy collaborating with product managers, stakeholders, and cross-functional teams to deliver high-impact features with measurable business outcomes.
+I have hands-on experience with **Google Cloud Platform (GCP), AWS, and Azure**, designing distributed data processing pipelines, optimizing performance, and applying best practices in infrastructure, data modeling, and operational excellence. I own end-to-end responsibility for code reviews, testing, CI/CD automation, monitoring, alerting, logging, and production support while collaborating closely with product managers, stakeholders, and cross-functional teams to deliver high-impact features with measurable business outcomes.
 
 Currently, I hold a **Master’s in Computer Science** from the **University of Illinois Springfield**, with a focus on AI, ML, and advanced backend systems.
 
 ---
-
 ### 🚀 Experience Highlights
-
-- Built and scaled **enterprise-grade full-stack platforms** using **Java, Spring Boot, React.js, Angular**, and **Hibernate**, delivering secure and high-performance user experiences.
-- Designed and optimized **microservices and REST APIs** with PostgreSQL, SQL Server, MongoDB, and MySQL, improving system responsiveness and reliability for high-volume workloads.
-- Led cloud modernization efforts including migrating **15+ applications from PCF to GCP**, reducing infrastructure cost by **30%** and improving scalability through optimized resource usage.
-- Developed near real-time pipelines and event-driven systems using **Kafka, Pub/Sub, Dataflow, RabbitMQ, and Redis caching**, achieving up to **40% higher throughput** for critical financial workflows.
-- Automated CI/CD and release workflows using **Jenkins, Tekton, GitHub Actions, Docker, Kubernetes, and Terraform**, reducing release cycles by **25% to 30%** and improving deployment reliability.
-- Strengthened production stability through **monitoring, alerting, logging, and security remediation** using tools like **Splunk, Dynatrace, Grafana, SonarQube, FOSSA, and Checkmarx**.
-- Improved engineering quality with strong testing practices using **JUnit, Mockito, JaCoCo, and Playwright**, achieving up to **95% code coverage** and reducing production defects.
+- Designed and implemented **15+ reusable React.js components** for AI-powered personal finance dashboards, expense trackers, and investment visualizations at Tech Tammina (Frigate), integrated with Spring Boot microservices and Hibernate, reducing API latency by **35%** and speeding rollout by **30%**.
+- Developed and optimized **RESTful APIs** for real-time financial data integration with PostgreSQL and MongoDB, achieving **99.5% uptime** and improving response times by **20%** through query tuning and Redis caching.
+- Built and maintained **20+ reusable React.js UI components** for Lloyds Banking Group’s Business Intelligence Marketplace, reducing API response times by **40%**, accelerating feature development by **35%**, and enhancing data accessibility for 10,000+ employees.
+- Led cloud modernization efforts, migrating **15+ applications** from Pivotal Cloud Foundry (PCF) to **Google Cloud Platform (GCP)** at Ford Motor Company, reducing infrastructure costs by **30%** and doubling system scalability.
+- Architected near real-time pipelines and event-driven systems using **Kafka, GCP Pub/Sub, Dataflow, RabbitMQ, and Redis caching**, achieving up to **40% higher throughput** for critical financial and analytics workflows.
+- Automated CI/CD and release workflows using **Jenkins, Tekton, GitHub Actions, Docker, Kubernetes, and Terraform**, reducing release cycles by **25–30%** and improving deployment reliability.
+- Strengthened production stability and security through monitoring, alerting, and logging with **Splunk, Dynatrace, Grafana**, and resolved 100+ vulnerabilities using **SonarQube, FOSSA, and Checkmarx**, consistently achieving **95% code coverage** and ensuring compliance with GDPR, PCI-DSS, and industry standards.
+- Delivered full-stack solutions across fintech, banking, automotive, and insurance domains, including real-time analytics, payment calculators, self-service portals, and AI-driven recommendations using modern cloud services and best practices in Agile/Scrum environments.
 
 ---
-
 ### 💡 Projects
-
 - [**BuildEstate**](https://github.com/varunmedi/real-estate-website) – AI-powered real estate platform with advanced property search, JWT authentication, and OpenAI-driven recommendations for market trend analysis and ROI prediction.
 - [**Bank Marketing Data Analysis**](https://github.com/varunmedi/bank-marketing-data-analysis) – Customer subscription prediction using custom KNN/Decision Tree models and advanced feature engineering.
 - [**Reddit Search Engine**](https://github.com/varunmedi/reddit-search-engine) – Multithreaded crawler (PRAW) and PyLucene-based search over 1M+ posts, with custom ranking algorithms.
 - [**Signatureless Ransomware Detection**](https://github.com/varunmedi/signatureless-ransomware-detection) – Windows minifilter driver leveraging behavioral analysis for real-time, kernel-level ransomware detection.
 
 ---
-
 ### 🎓 Education
-
 **University of Illinois Springfield**  
-Masters in Computer Science<br>
-_Coursework:_ ML, Neural Networks, NLP, Reinforcement Learning, Advanced DB, Web Design, Data Visualization, Computer Networking
+**Masters in Computer Science**  
+_Aug 2024 – Dec 2025_  
+**Coursework:** ML, Neural Networks, NLP, Reinforcement Learning, Advanced DB, Web Design, Data Visualization, Computer Networking
 
 **Andhra University**  
-Bachelors in Computer Science
+**Bachelors in Computer Science**  
+_Jun 2017 – May 2021_
 
 ---
-
 ### 🛠️ Tech Stack
-
 #### Languages & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -72,6 +67,8 @@ Bachelors in Computer Science
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -98,23 +95,16 @@ Bachelors in Computer Science
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ### 🍳 Outside of Work
+When I’m not coding, you’ll find me experimenting in the kitchen with Middle Eastern and Italian dishes mixed with South Indian flavors. I love the creativity that comes with cooking and often try to blend traditional recipes with new techniques.
 
-When I’m not coding, you’ll find me experimenting in the kitchen with Middle Eastern and Italian dishes mixed with South Indian flavors. I love the creativity that comes with cooking and often try to blend traditional recipes with new techniques.  
 To balance things out, I enjoy lifting weights 🏋️ and keeping an active lifestyle.
 
 ---
-
 Let’s connect and explore how we can make an impact together! 🌟
-
 ---
-
 ### 📬 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varunmedi/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/varunmedi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/varunmedi/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunkumarmedi9@gmail.com)
-
----
